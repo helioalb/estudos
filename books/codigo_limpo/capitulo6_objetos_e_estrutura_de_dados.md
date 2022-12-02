@@ -1,4 +1,4 @@
-# Objetos e estrutura de dados
+# Capitulo 6 - Objetos e estrutura de dados
 
 Declaramos variáveis como privadas para que ninguém de fora da class dependa delas.
 
